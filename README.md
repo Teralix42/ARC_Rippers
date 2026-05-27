@@ -3,17 +3,19 @@
 Community-made archive of extracted and converted assets from ARC Raiders.
 
 Currently includes:
-- Item images from version 1.29.0
+- All item images from version 1.29.0 (except weapon mods)
 
 Planned additions:
+- Weapon mod item images
 - UI icons
 - Textured models
 - Scene recreations
+- Possibly importing pluggins
 
 Contributors:
 - Teralix42
-- Fmodel community for decrypting the game
-- Blend Raiders community
+- Fmodel community for figuring out the game's encryption and cracking it
+- Blend Raiders community for figuring out importing and texturing
 
 ---
 
